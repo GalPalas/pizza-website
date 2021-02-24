@@ -2,7 +2,7 @@
 
 This project demonstrates a site of a pizza restaurant, it was built in React.
 
-## Available Scripts
+## Steps to run this project:
 
 In the project directory, you can run:
 
