@@ -1,6 +1,6 @@
 # Pizza Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates a site of a pizza restaurant, it was built in React.
 
 ## Available Scripts
 
