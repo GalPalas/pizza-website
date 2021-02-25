@@ -4,7 +4,7 @@ This project demonstrates a site of a pizza restaurant, it was built in React us
 
 ## Steps to run this project:
 
-### 1.Download the project from GitaHab.
+### 1.Download the project from GitaHub.
 
 ### 2.Open vs code or any other editor, and add the project.
 
